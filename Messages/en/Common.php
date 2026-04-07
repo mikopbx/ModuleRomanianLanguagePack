@@ -3,20 +3,13 @@
 declare(strict_types=1);
 
 return [
-    'BreadcrumbModuleRomanianLanguagePack' => 'Romanian Language Pack',
+    'BreadcrumbModuleRomanianLanguagePack' => 'Language Pack - Romanian',
     'SubHeaderModuleRomanianLanguagePack' => 'Complete Romanian language support for MikoPBX',
-    'mlp_SoundFiles' => 'Sound Files',
-    'mlp_TranslationFiles' => 'Translation Files',
-    'mlp_TranslationStrings' => 'Translation Strings',
-    'mlp_HowToUse' => 'How to Use',
-    'mlp_Step1' => 'After enabling this language pack, select Romanian as the system language in General Settings.',
-    'mlp_GoToGeneralSettings' => 'Go to General Settings',
-    'mlp_LicenseHeader' => 'License',
-    'mlp_ModuleCode' => 'Module code',
-    'mlp_SoundFilesLicense' => 'Sound files',
-    'mlp_SoundFilesLicenseText' => 'Asterisk Sound Files (CC BY-SA 4.0)',
-    'mlp_CopyrightHeader' => 'Copyright',
-    'mlp_ModuleDevelopment' => 'Module development',
-    'mlp_VoicePrompts' => 'Voice prompts',
-    'mlp_VoicePromptsSource' => 'From official Asterisk release',
+    'mlp_ro_SoundFiles' => 'Sound Files',
+    'mlp_ro_TranslationFiles' => 'Translation Files',
+    'mlp_ro_TranslationStrings' => 'Translation Strings',
+    'mlp_ro_Step1' => 'After enabling this language pack, select the appropriate language in General Settings.',
+    'mlp_ro_GoToGeneralSettings' => 'Go to General Settings',
+    'mlp_ro_HelpTranslate' => 'Want to improve the translation? Help us on Weblate!',
+    'mlp_ro_WeblateLink' => 'Open Weblate',
 ];
