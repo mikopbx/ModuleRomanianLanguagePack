@@ -1,0 +1,548 @@
+; Core Asterisk Sounds in Romanian (Română)
+; Generated using Piper TTS (ro_RO-mihai-medium)
+; Sample rate: 22050 Hz, mono, 16-bit PCM WAV
+; Total entries: 543
+;
+activated: Activat.
+added: Adăugat.
+agent-alreadyon: Agentul este deja conectat. Vă rugăm să introduceți numărul de agent urmat de tasta diez.
+agent-incorrect: Autentificare incorectă. Vă rugăm să introduceți numărul de agent urmat de tasta diez.
+agent-loggedoff: Agent deconectat.
+agent-loginok: Agent conectat.
+agent-newlocation: Vă rugăm să introduceți un nou interior, urmat de tasta diez.
+agent-pass: Vă rugăm să introduceți parola urmată de tasta diez.
+agent-user: Autentificare agent. Vă rugăm să introduceți numărul de agent urmat de tasta diez.
+all-circuits-busy-now: Toate circuitele sunt ocupate în acest moment.
+astcc-followed-by-the-pound-key: Urmat de tasta diez.
+at-tone-time-exactly: La semnalul sonor, ora exactă va fi...
+auth-incorrect: Parolă incorectă. Vă rugăm să introduceți parola urmată de tasta diez.
+auth-thankyou: Vă mulțumim.
+call-forwarding: Redirecționare apel.
+call-fwd-no-ans: Redirecționare apel la nerăspuns.
+call-fwd-on-busy: Redirecționare apel la ocupat.
+call-fwd-unconditional: Redirecționare apel necondiționată.
+call-waiting: Apel în așteptare.
+calling: Se apelează.
+cancelled: Anulat.
+cannot-complete-as-dialed: Apelul dumneavoastră nu poate fi efectuat așa cum a fost format.
+check-number-dial-again: Vă rugăm să verificați numărul și să formați din nou.
+conf-adminmenu: Vă rugăm apăsați 1 pentru a vă activa sau dezactiva microfonul, 2 pentru a bloca sau debloca conferința, 3 pentru a elimina ultimul utilizator, 4 sau 6 pentru a scădea sau crește volumul conferinței, 7 sau 9 pentru a scădea sau crește volumul dumneavoastră, sau 8 pentru a ieși.
+conf-adminmenu-162: Vă rugăm apăsați 1 pentru a vă activa sau dezactiva microfonul, 2 pentru a bloca sau debloca conferința, 3 pentru a elimina ultimul utilizator, 4 sau 6 pentru a scădea sau crește volumul conferinței, 5 pentru a prelungi conferința, 7 sau 9 pentru a scădea sau crește volumul dumneavoastră, sau 8 pentru a ieși.
+conf-adminmenu-18: Vă rugăm apăsați 1 pentru a vă activa sau dezactiva microfonul, 2 pentru a bloca sau debloca conferința, 3 pentru a elimina ultimul utilizator, 4 sau 6 pentru a scădea sau crește volumul conferinței, 5 pentru a prelungi conferința, 7 sau 9 pentru a scădea sau crește volumul dumneavoastră, sau 8 pentru mai multe opțiuni.
+conf-adminmenu-menu8: Apăsați 1 pentru a lista utilizatorii aflați în conferință, 2 pentru a elimina toți utilizatorii care nu sunt administratori, 3 pentru a activa sau dezactiva microfonul tuturor utilizatorilor care nu sunt administratori, 4 pentru a înregistra această conferință, sau 8 pentru a ieși din acest meniu și a reveni la conferință.
+conf-enteringno: Intrați în conferința cu numărul
+conf-errormenu: Opțiune invalidă
+conf-extended: Conferința a fost prelungită.
+conf-full: Conferința este plină.
+conf-getchannel: Vă rugăm să introduceți numărul canalului urmat de tasta diez.
+conf-getconfno: Vă rugăm să introduceți numărul conferinței urmat de tasta diez.
+conf-getpin: Vă rugăm să introduceți codul PIN al conferinței.
+conf-hasjoin: s-a alăturat conferinței.
+conf-hasleft: a părăsit conferința.
+conf-invalid: Acesta nu este un număr de conferință valid. Vă rugăm să încercați din nou.
+conf-invalidpin: Codul PIN este invalid pentru această conferință.
+conf-kicked: Ați fost eliminat din această conferință.
+conf-leaderhasleft: Moderatorul a părăsit conferința.
+conf-locked: Această conferință este blocată!
+conf-lockednow: Conferința este acum blocată.
+conf-muted: Sunteți acum cu microfonul dezactivat.
+conf-noempty: Nu există conferințe libere în acest moment.
+conf-nonextended: Conferința nu poate fi prelungită.
+conf-now-muted: Conferința este acum cu sunetul dezactivat.
+conf-now-recording: Conferința este acum înregistrată.
+conf-now-unmuted: Conferința este acum cu sunetul activat.
+conf-onlyone: În prezent mai este un singur participant în conferință.
+conf-onlyperson: Sunteți în prezent singura persoană din această conferință.
+conf-otherinparty: alți participanți în conferință
+conf-placeintoconf: Veți fi acum conectat la conferință.
+conf-roll-callcomplete: Redarea listei participanților s-a terminat.
+conf-thereare: În prezent sunt
+conf-unlockednow: Conferința este acum deblocată.
+conf-unmuted: Microfonul dumneavoastră este acum activat.
+conf-usermenu: Vă rugăm să apăsați 1 pentru a activa sau dezactiva microfonul, 4 sau 6 pentru a reduce sau crește volumul conferinței, 7 sau 9 pentru a reduce sau crește volumul dumneavoastră, sau 8 pentru a ieși.
+conf-usermenu-162: Vă rugăm să apăsați 1 pentru a activa sau dezactiva microfonul, 4 sau 6 pentru a reduce sau crește volumul conferinței, 5 pentru a prelungi conferința, 7 sau 9 pentru a reduce sau crește volumul dumneavoastră, sau 8 pentru a ieși din meniu și a reveni la conferință.
+conf-userswilljoin: utilizatori se vor alătura conferinței.
+conf-userwilljoin: utilizator se va alătura conferinței.
+conf-waitforleader: Conferința va începe când sosește moderatorul.
+confbridge-begin-glorious-a: conferința va începe când sosește gloriosul nostru lider
+confbridge-begin-glorious-b: conferința va începe când sosește gloriosul nostru lider
+confbridge-begin-glorious-c: conferința va începe când sosește gloriosul nostru lider
+confbridge-begin-leader: conferința va începe când sosește moderatorul
+confbridge-binaural-off: Audio 3D dezactivat
+confbridge-binaural-on: Audio 3D activat
+confbridge-conf-begin: conferința va începe acum
+confbridge-conf-end: conferința s-a încheiat
+confbridge-dec-list-vol-in: Pentru a reduce volumul audio de la ceilalți participanți...
+confbridge-dec-list-vol-out: ...pentru a reduce volumul audio de la ceilalți participanți.
+confbridge-dec-talk-vol-in: Pentru a reduce volumul dumneavoastră de vorbire către ceilalți participanți...
+confbridge-dec-talk-vol-out: ...pentru a reduce volumul dumneavoastră de vorbire către ceilalți participanți.
+confbridge-has-joined: ...s-a alăturat conferinței.
+confbridge-has-left: ...a părăsit conferința.
+confbridge-inc-list-vol-in: Pentru a crește volumul audio de la ceilalți participanți...
+confbridge-inc-list-vol-out: ...pentru a crește volumul audio de la ceilalți participanți.
+confbridge-inc-talk-vol-in: Pentru a crește volumul dumneavoastră de vorbire către ceilalți participanți...
+confbridge-inc-talk-vol-out: ...pentru a crește volumul dumneavoastră de vorbire către ceilalți participanți.
+confbridge-invalid: Ați introdus o opțiune invalidă.
+confbridge-leave-in: Pentru a părăsi conferința...
+confbridge-leave-out: ...pentru a părăsi conferința.
+confbridge-lock-extended: ...pentru a bloca sau debloca conferința. Când o conferință este blocată, doar administratorii pot participa.
+confbridge-lock-in: Pentru a bloca sau debloca conferința...
+confbridge-lock-no-join: Conferința este în prezent blocată și nu poate fi accesată.
+confbridge-lock-out: ...pentru a bloca sau debloca conferința.
+confbridge-locked: Conferința este acum blocată.
+confbridge-menu-exit-in: Pentru a ieși din meniu...
+confbridge-menu-exit-out: ...pentru a ieși din meniu.
+confbridge-mute-extended: ...pentru a activa sau dezactiva microfonul. Când microfonul este dezactivat, nu puteți transmite audio celorlalți participanți. Cu toate acestea, veți auzi în continuare audio de la ceilalți participanți cu microfonul activat.
+confbridge-mute-in: Pentru a activa sau dezactiva microfonul...
+confbridge-mute-out: ...pentru a activa sau dezactiva microfonul.
+confbridge-muted: Microfonul dumneavoastră este acum dezactivat.
+confbridge-only-one: În prezent mai este un singur participant în conferință.
+confbridge-only-participant: Sunteți în prezent singurul participant din conferință.
+confbridge-participants: ...participanți în conferință.
+confbridge-pin: Vă rugăm să introduceți numărul dumneavoastră personal de identificare urmat de tasta diez.
+confbridge-pin-bad: Ați introdus prea multe numere de identificare personale invalide.
+confbridge-remove-last-in: Pentru a elimina participantul care s-a alăturat cel mai recent conferinței...
+confbridge-remove-last-out: ...pentru a elimina participantul care s-a alăturat cel mai recent conferinței.
+confbridge-removed: Ați fost eliminat din conferință.
+confbridge-rest-list-vol-in: Pentru a reseta volumul audio al conferinței la nivelul implicit...
+confbridge-rest-list-vol-out: ...pentru a reseta volumul audio al conferinței la nivelul implicit.
+confbridge-rest-talk-vol-in: Pentru a reseta volumul dumneavoastră de vorbire la nivelul implicit...
+confbridge-rest-talk-vol-out: ...pentru a reseta volumul dumneavoastră de vorbire la nivelul implicit.
+confbridge-there-are: În prezent sunt...
+confbridge-unlocked: Conferința este acum deblocată.
+confbridge-unmuted: Microfonul dumneavoastră nu mai este dezactivat.
+de-activated: Dezactivat.
+dictate/both_help: apăsați steluța pentru a comuta pauza, apăsați tasta diez pentru a introduce un nou nume de fișier de dictare
+dictate/enter_filename: Introduceți un nume numeric de fișier de dictare urmat de tasta diez sau doar tasta diez pentru a ieși
+dictate/forhelp: apăsați 0 pentru ajutor
+dictate/pause: pauză
+dictate/paused: în pauză
+dictate/play_help: apăsați 1 pentru a comuta în modul înregistrare, apăsați 2 pentru a comuta redarea rapidă, apăsați 7 pentru a sări înapoi, apăsați 8 pentru a sări înainte
+dictate/playback: redare
+dictate/playback_mode: mod redare
+dictate/record: înregistrare
+dictate/record_help: apăsați 1 pentru a comuta în modul redare, apăsați 8 pentru a trunchia fișierul și a reîncepe
+dictate/record_mode: mod înregistrare
+dictate/truncating_audio: se trunchiază fișierul audio
+digits/0: zero
+digits/1: unu
+digits/10: zece
+digits/11: unsprezece
+digits/12: doisprezece
+digits/13: treisprezece
+digits/14: paisprezece
+digits/15: cincisprezece
+digits/16: șaisprezece
+digits/17: șaptesprezece
+digits/18: optsprezece
+digits/19: nouăsprezece
+digits/1f: o
+digits/2: doi
+digits/20: douăzeci
+digits/2f: două
+digits/3: trei
+digits/30: treizeci
+digits/4: patru
+digits/40: patruzeci
+digits/5: cinci
+digits/50: cincizeci
+digits/6: șase
+digits/60: șaizeci
+digits/7: șapte
+digits/70: șaptezeci
+digits/8: opt
+digits/80: optzeci
+digits/9: nouă
+digits/90: nouăzeci
+digits/a-m: A.M.
+digits/at: la
+digits/billion: miliard
+digits/day-0: duminică
+digits/day-1: luni
+digits/day-2: marți
+digits/day-3: miercuri
+digits/day-4: joi
+digits/day-5: vineri
+digits/day-6: sâmbătă
+digits/dollars: dolari
+digits/h-1: primul
+digits/h-10: al zecelea
+digits/h-11: al unsprezecelea
+digits/h-12: al doisprezecelea
+digits/h-13: al treisprezecelea
+digits/h-14: al paisprezecelea
+digits/h-15: al cincisprezecelea
+digits/h-16: al șaisprezecelea
+digits/h-17: al șaptesprezecelea
+digits/h-18: al optsprezecelea
+digits/h-19: al nouăsprezecelea
+digits/h-2: al doilea
+digits/h-20: al douăzecelea
+digits/h-3: al treilea
+digits/h-30: al treizecelea
+digits/h-4: al patrulea
+digits/h-40: al patruzecelea
+digits/h-5: al cincilea
+digits/h-50: al cincizecelea
+digits/h-6: al șaselea
+digits/h-60: al șaizecelea
+digits/h-7: al șaptelea
+digits/h-70: al șaptezecelea
+digits/h-8: al optulea
+digits/h-80: al optzecelea
+digits/h-9: al nouălea
+digits/h-90: al nouăzecelea
+digits/h-billion: al miliardilea
+digits/h-hundred: al sutălea
+digits/h-million: al milionilea
+digits/h-thousand: al miilea
+digits/hundred: sută
+digits/million: milion
+digits/minus: minus
+digits/mon-0: ianuarie
+digits/mon-1: februarie
+digits/mon-10: noiembrie
+digits/mon-11: decembrie
+digits/mon-2: martie
+digits/mon-3: aprilie
+digits/mon-4: mai
+digits/mon-5: iunie
+digits/mon-6: iulie
+digits/mon-7: august
+digits/mon-8: septembrie
+digits/mon-9: octombrie
+digits/oclock: fix
+digits/oh: zero
+digits/p-m: P.M.
+digits/pound: diez
+digits/star: steluța
+digits/thousand: mie
+digits/today: astăzi
+digits/tomorrow: mâine
+digits/yesterday: ieri
+dir-first: literele prenumelui persoanei căutate.
+dir-firstlast: ... literele prenumelui sau numelui de familie al persoanei căutate.
+dir-instr: Dacă aceasta este persoana pe care o căutați, apăsați 1 acum, în caz contrar apăsați steluța acum.
+dir-intro: Bine ați venit în director. Vă rugăm introduceți primele trei litere ale numelui de familie al persoanei căutate folosind tastatura telefonului. Folosiți tasta 7 pentru Q și tasta 9 pentru Z.
+dir-intro-fn: Bine ați venit în director. Vă rugăm introduceți primele trei litere ale prenumelui persoanei căutate folosind tastatura telefonului. Folosiți tasta 7 pentru Q și tasta 9 pentru Z.
+dir-last: ... literele numelui de familie al persoanei căutate.
+dir-multi1: Apăsați ...
+dir-multi2: ... pentru ...
+dir-multi3: ... extensie ...
+dir-multi9: Apăsați 9 pentru mai multe intrări.
+dir-nomatch: Nicio intrare din director nu corespunde căutării dumneavoastră.
+dir-nomore: Nu mai există intrări compatibile în director.
+dir-pls-enter: Vă rugăm introduceți primele ...
+dir-usingkeypad: ... folosind tastatura telefonului. Folosiți tasta 7 pentru Q și tasta 9 pentru Z.
+dir-welcome: Bine ați venit în director
+disabled: Dezactivat.
+do-not-disturb: Nu deranjați.
+enabled: Activat.
+enter-num-blacklist: Vă rugăm să introduceți numărul care urmează să fie blocat.
+entr-num-rmv-blklist: Vă rugăm să introduceți numărul care urmează să fie eliminat din lista neagră.
+extension: Extensie.
+feature-not-avail-line: Această funcție nu este disponibilă pe această linie.
+followme/call-from: apel primit de la
+followme/no-recording: aveți un apel primit
+followme/options: apăsați 1 pentru a accepta acest apel, sau 2 pentru a-l respinge
+followme/pls-hold-while-try: vă rugăm așteptați în timp ce încerc să localizez persoana pe care o apelați
+followme/sorry: Ne pare rău, dar nu am reușit să localizăm persoana pe care o apelați.
+followme/status: persoana pe care o apelați nu se află la birou; voi încerca să o localizez pentru dumneavoastră
+for: Pentru.
+from-unknown-caller: De la un apelant necunoscut.
+goodbye: La revedere!
+hello: Bună ziua.
+hello-world: Salut lume.
+hours: ore
+if-correct-press: Dacă este corect, apăsați...
+im-sorry: Îmi pare rău.
+info-about-last-call: Informații despre ultimul dumneavoastră apel.
+invalid: Ne pare rău, aceasta nu este o extensie validă. Vă rugăm să încercați din nou.
+is: Este.
+is-in-use: Este în uz.
+is-set-to: Este setat la.
+letters/a: a
+letters/ascii123: acoladă stângă
+letters/ascii124: bară verticală
+letters/ascii125: acoladă dreaptă
+letters/ascii126: tildă
+letters/ascii34: ghilimele
+letters/ascii36: semnul dolar
+letters/ascii37: procent
+letters/ascii38: ampersand
+letters/ascii39: apostrof
+letters/ascii40: paranteză deschisă
+letters/ascii41: paranteză închisă
+letters/ascii42: steluță
+letters/ascii44: virgulă
+letters/ascii58: două puncte
+letters/ascii59: punct și virgulă
+letters/ascii60: mai mic decât
+letters/ascii62: mai mare decât
+letters/ascii63: semnul întrebării
+letters/ascii91: paranteză pătrată stângă
+letters/ascii92: bară inversă
+letters/ascii93: paranteză pătrată dreaptă
+letters/ascii94: accent circumflex
+letters/ascii95: liniuță de subliniere
+letters/ascii96: accent grav
+letters/asterisk: steluță
+letters/at: arond
+letters/b: be
+letters/c: ce
+letters/d: de
+letters/dash: cratimă
+letters/dollar: dolar
+letters/dot: punct
+letters/e: e
+letters/equals: egal
+letters/exclaimation-point: semnul exclamării
+letters/f: ef
+letters/g: ghe
+letters/h: haș
+letters/i: i
+letters/j: je
+letters/k: ka
+letters/l: el
+letters/m: em
+letters/n: en
+letters/o: o
+letters/p: pe
+letters/plus: plus
+letters/q: chiu
+letters/r: er
+letters/s: es
+letters/slash: bară oblică
+letters/space: spațiu
+letters/t: te
+letters/u: u
+letters/v: ve
+letters/w: dublu ve
+letters/x: ics
+letters/y: igrec
+letters/z: zet
+letters/zed: zet
+location: Locație.
+lowercase: literă mică
+minute: minut
+minutes: minute
+num-was-successfully: Numărul a fost cu succes...
+number: Număr.
+number-not-answering: Numărul nu răspunde.
+one-moment-please: Un moment, vă rugăm.
+pbx-invalid: Ne pare rău, aceasta nu este o extensie validă. Vă rugăm să încercați din nou.
+pbx-invalidpark: Ne pare rău, nu există niciun apel parcat pe această extensie. Vă rugăm să încercați din nou.
+pbx-parkingfailed: Parcarea apelului a eșuat.
+pbx-transfer: Transfer.
+phonetic/9_p: niner
+phonetic/a_p: alpha
+phonetic/b_p: bravo
+phonetic/c_p: charlie
+phonetic/d_p: delta
+phonetic/e_p: echo
+phonetic/f_p: foxtrot
+phonetic/g_p: golf
+phonetic/h_p: hotel
+phonetic/i_p: india
+phonetic/j_p: juliet
+phonetic/k_p: kilo
+phonetic/l_p: lima
+phonetic/m_p: mike
+phonetic/n_p: november
+phonetic/o_p: oscar
+phonetic/p_p: papa
+phonetic/q_p: quebec
+phonetic/r_p: romeo
+phonetic/s_p: sierra
+phonetic/t_p: tango
+phonetic/u_p: uniform
+phonetic/v_p: victor
+phonetic/w_p: whiskey
+phonetic/x_p: xray
+phonetic/y_p: yankee
+phonetic/z_p: zulu
+please-try-again: Vă rugăm să încercați din nou.
+please-try-call-later: Vă rugăm să încercați apelul mai târziu.
+pls-hold-while-try: Vă rugăm să așteptați în timp ce încercăm să vă conectăm.
+pls-try-call-later: Vă rugăm să încercați apelul mai târziu.
+pm-invalid-option: Această opțiune este invalidă. Vă rugăm încercați din nou.
+priv-callee-options: Apăsați 1 dacă doriți ca acest apelant să vă contacteze direct acum și pe viitor. Apăsați 2 dacă doriți să trimiteți acest apelant la mesageria vocală acum și pentru totdeauna. Apăsați 3 pentru a trimite acest apelant la meniurile de tortură, acum și pentru totdeauna. Apăsați 4 pentru a trimite acest apelant la un meniu politicos de tipul „nu sunați", acum și pentru totdeauna. Apăsați 5 pentru a permite acestui apelant să ajungă direct la dumneavoastră pe viitor, dar doar de această dată, trimiteți-l la mesageria vocală.
+priv-callpending: Am un apelant în așteptare, care se prezintă astfel:
+priv-introsaved: Vă mulțumim. Vă rugăm așteptați, în timp ce încerc să vă conectez cu interlocutorul dumneavoastră!
+priv-recordintro: La semnalul sonor, vă rugăm spuneți-vă numele.
+privacy-incorrect: Ne pare rău, acel număr nu este valid.
+privacy-prompt: Vă rugăm introduceți numărul dumneavoastră de telefon, începând cu prefixul zonei.
+privacy-thankyou: Vă mulțumim.
+privacy-to-blacklist-last-caller: Ultimul apelant a fost...
+privacy-unident: Persoana pe care încercați să o contactați nu acceptă apeluri neidentificate.
+queue-callswaiting: În așteptare pentru a vorbi cu un reprezentant.
+queue-holdtime: Timpul estimat de așteptare este în prezent
+queue-less-than: mai puțin de
+queue-minute: minut
+queue-minutes: minute
+queue-periodic-announce: Toți reprezentanții noștri sunt ocupați în acest moment. Vă rugăm să rămâneți pe linie și apelul dumneavoastră va fi preluat de următorul reprezentant disponibil.
+queue-quantity1: În prezent, sunt mai mult de...
+queue-quantity2: ...apelanți în așteptare pentru a vorbi cu un reprezentant.
+queue-reporthold: Timp de așteptare
+queue-seconds: Secunde
+queue-thankyou: Vă mulțumim pentru răbdare.
+queue-thereare: Sunteți în prezent apelantul cu numărul
+queue-youarenext: Apelul dumneavoastră este acum primul la rând și va fi preluat de următorul reprezentant disponibil.
+removed: Eliminat.
+screen-callee-options: Aveți următoarele opțiuni: Apăsați 1 dacă doriți să vă conectați imediat la apelul primit. Apăsați 2 dacă doriți să trimiteți acest apelant la mesageria vocală. Apăsați 3 pentru a trimite acest apelant la meniurile de tortură. Apăsați 4 pentru a trimite acest apelant la un meniu politicos de tipul „nu sunați".
+second: secundă
+seconds: secunde
+simul-call-limit-reached: Limita de apeluri simultane a fost atinsă.
+something-terribly-wrong: Ceva este foarte greșit!
+sorry: Ne cerem scuze.
+sorry-youre-having-problems: Ne pare rău că aveți probleme.
+speed-dial: Apelare rapidă.
+speed-dial-empty: Intrarea de apelare rapidă pe care ați accesat-o este goală.
+spy-agent: Agent
+spy-console: Console
+spy-dahdi: DAHDI
+spy-h323: H.323
+spy-iax: IAX
+spy-iax2: IAX
+spy-jingle: Jingle
+spy-local: Local
+spy-mgcp: MGCP
+spy-misdn: M I S D N
+spy-mobile: Bluetooth Mobile
+spy-nbs: N B S
+spy-sip: SIP
+spy-skinny: Skinny
+spy-unistim: Unistim
+spy-usbradio: USB Radio
+spy-zap: Zap
+ss-noservice: Numărul pe care l-ați format nu este în serviciu. Vă rugăm să verificați numărul și să încercați din nou.
+telephone-number: Număr de telefon.
+time: Ora.
+to-call-this-number: Pentru a apela acest număr.
+to-extension: La extensia.
+to-listen-to-it: Pentru a-l asculta.
+to-rerecord-it: Pentru a-l reînregistra.
+transfer: Vă rugăm să așteptați în timp ce încercăm extensia.
+tt-allbusy: Toți reprezentanții sunt ocupați în prezent asistând alți apelanți. Vă rugăm să așteptați și apelul dumneavoastră va fi preluat în ordinea în care a fost primit.
+tt-monkeysintro: Au fost luați de maimuțe
+tt-somethingwrong: Ceva este foarte greșit
+tt-weasels: Nevăstuitele ne-au mâncat sistemul telefonic.
+unidentified-no-callback: Neidentificat sau ascuns și prin urmare nu poate fi apelat înapoi.
+uppercase: literă mare
+vm-Cust1: dosar 5
+vm-Cust2: dosar 6
+vm-Cust3: dosar 7
+vm-Cust4: dosar 8
+vm-Cust5: dosar 9
+vm-Family: familie
+vm-Friends: prieteni
+vm-INBOX: noi
+vm-Old: vechi
+vm-Urgent: urgent
+vm-Work: serviciu
+vm-advopts: apăsați 3 pentru opțiuni avansate
+vm-and: și
+vm-calldiffnum: apăsați 2 pentru a introduce un alt număr
+vm-changeto: Schimbați la care dosar?
+vm-delete: Apăsați 7 pentru a șterge acest mesaj.
+vm-deleted: Mesaj șters.
+vm-dialout: vă rugăm așteptați în timp ce vă conectez apelul
+vm-duration: Acest mesaj durează ...
+vm-enter-num-to-call: vă rugăm să introduceți numărul pe care doriți să-l apelați
+vm-extension: extensie
+vm-first: primul
+vm-for: pentru
+vm-forward: Apăsați 1 pentru a introduce o extensie, apăsați 2 pentru a utiliza directorul
+vm-forward-multiple: apăsați 1 pentru a trimite acest mesaj, sau 2 pentru a adăuga un alt destinatar.
+vm-forwardoptions: apăsați 1 pentru a adăuga un mesaj introductiv sau 2 pentru a redirecționa mesajul fără mesaj introductiv
+vm-from: de la
+vm-from-extension: mesaj de la extensia
+vm-from-phonenumber: mesaj de la numărul de telefon
+vm-goodbye: La revedere.
+vm-helpexit: Apăsați steluța pentru ajutor sau tasta diez pentru a ieși.
+vm-incorrect: Autentificare incorectă.
+vm-incorrect-mailbox: Autentificare incorectă. Căsuța poștală?
+vm-instructions: Pentru a vă asculta mesajele apăsați 1 acum. Puteți părăsi mesageria vocală oricând apăsând tasta diez.
+vm-intro: Vă rugăm să lăsați mesajul dumneavoastră după ton. Când ați terminat, închideți sau apăsați tasta diez.
+vm-invalid-password: Acea parolă nu îndeplinește cerințele minime pentru această căsuță poștală. Vă rugăm încercați din nou.
+vm-invalidpassword: Aceasta nu este o parolă validă. Vă rugăm încercați din nou.
+vm-isonphone: este la telefon
+vm-isunavail: este indisponibil
+vm-last: ultimul
+vm-leavemsg: Apăsați 5 pentru a lăsa un mesaj
+vm-login: Mesagerie vocală. Căsuța poștală?
+vm-mailboxfull: ne pare rău dar căsuța poștală a utilizatorului nu mai poate primi mesaje
+vm-marked-nonurgent: Statutul de urgent a fost eliminat.
+vm-marked-urgent: Mesaj marcat ca urgent.
+vm-message: mesaj
+vm-messages: mesaje
+vm-minutes: minute
+vm-mismatch: Parolele pe care le-ați introdus și reintrodus nu coincid. Vă rugăm încercați din nou.
+vm-msgforwarded: Mesajul dumneavoastră a fost redirecționat cu succes.
+vm-msginstruct: Pentru a asculta următorul mesaj apăsați 6, pentru a repeta acest mesaj apăsați 5, pentru a asculta mesajul anterior apăsați 4, pentru a șterge sau recupera acest mesaj apăsați zero, pentru a părăsi mesageria vocală apăsați tasta diez.
+vm-msgsaved: Mesajul dumneavoastră a fost salvat.
+vm-newpassword: Vă rugăm introduceți noua dumneavoastră parolă urmată de tasta diez.
+vm-newuser: Bine ați venit în mesageria vocală. Mai întâi, vă voi ghida printr-un scurt proces de configurare.
+vm-next: Apăsați 6 pentru a reda următorul mesaj.
+vm-no: nu
+vm-nobodyavail: Nimeni nu este disponibil pentru a vă prelua apelul în acest moment
+vm-nobox: nu puteți răspunde la acest mesaj deoarece expeditorul nu are o căsuță poștală
+vm-nomore: Nu mai sunt mesaje.
+vm-nonumber: Îmi pare rău, nu știu cine a trimis acest mesaj
+vm-num-i-have: numărul pe care îl am este
+vm-onefor: Apăsați 1 pentru
+vm-onefor-full: Apăsați unu pentru a asculta ...
+vm-options: Apăsați 1 pentru a înregistra mesajul de indisponibilitate, apăsați 2 pentru a înregistra mesajul de ocupat, apăsați 3 pentru a vă înregistra numele, apăsați 4 pentru a înregistra salutul temporar, apăsați 5 pentru a vă schimba parola, apăsați steluța pentru a reveni la meniul principal.
+vm-opts: Apăsați 2 pentru a schimba dosarul, apăsați 3 pentru opțiuni avansate, apăsați zero pentru opțiunile căsuței poștale.
+vm-opts-full: apăsați 2 pentru a accesa mesajele salvate în alte dosare. Apăsați 3 pentru a înregistra un mesaj pentru altă căsuță poștală. Apăsați 0 pentru gestionarea saluturilor și a parolei.
+vm-passchanged: Parolele dumneavoastră au fost schimbate.
+vm-password: parolă
+vm-pls-try-again: vă rugăm încercați din nou
+vm-press: apăsați
+vm-prev: Apăsați 4 pentru mesajul anterior
+vm-reachoper: apăsați 0 pentru a contacta un operator
+vm-rec-busy: După semnalul sonor spuneți mesajul de ocupat și apoi apăsați tasta diez.
+vm-rec-name: După semnalul sonor spuneți-vă numele și apoi apăsați tasta diez.
+vm-rec-temp: După semnalul sonor, spuneți mesajul dumneavoastră temporar, și apoi apăsați tasta diez.
+vm-rec-unv: După semnalul sonor spuneți mesajul de indisponibilitate și apoi apăsați tasta diez.
+vm-received: primit
+vm-record-prepend: La semnalul sonor, vă rugăm înregistrați o introducere pentru mesajul redirecționat. Când ați terminat, apăsați tasta diez.
+vm-reenterpassword: Vă rugăm reintroduceți parola urmată de tasta diez.
+vm-repeat: Apăsați 5 pentru a repeta mesajul curent.
+vm-review: apăsați 1 pentru a accepta această înregistrare, apăsați 2 pentru a o asculta, apăsați 3 pentru a vă reînregistra mesajul
+vm-review-nonurgent: Apăsați 4 pentru a elimina statutul de urgent al acestui mesaj.
+vm-review-urgent: Apăsați 4 pentru a marca acest mesaj ca urgent.
+vm-saved: salvat
+vm-savedto: salvat în
+vm-savefolder: În care dosar trebuie să salvez mesajul?
+vm-savemessage: sau 9 pentru a salva acest mesaj
+vm-saveoper: apăsați 1 pentru a accepta această înregistrare, în caz contrar, vă rugăm continuați să așteptați
+vm-sorry: Îmi pare rău, nu am înțeles răspunsul dumneavoastră.
+vm-star-cancel: apăsați steluța pentru a anula
+vm-starmain: apăsați steluța pentru a reveni la meniul principal
+vm-tempgreetactive: Salutul dumneavoastră temporar este activ în prezent
+vm-tempgreeting: apăsați 1 pentru a înregistra salutul dumneavoastră temporar
+vm-tempgreeting2: apăsați 1 pentru a înregistra salutul dumneavoastră temporar, sau apăsați 2 pentru a șterge salutul temporar
+vm-tempremoved: Salutul dumneavoastră temporar a fost eliminat
+vm-then-pound: apoi apăsați tasta diez
+vm-theperson: Persoana de la extensia
+vm-tmpexists: Există un salut temporar, care suprascrie saluturile dumneavoastră standard.
+vm-tocallback: apăsați 2 pentru a apela persoana care a trimis acest mesaj
+vm-tocallnum: apăsați 1 pentru a apela acest număr
+vm-tocancel: sau tasta diez pentru a anula.
+vm-tocancelmsg: apăsați steluța pentru a anula acest mesaj
+vm-toenternumber: apăsați 1 pentru a introduce un număr
+vm-toforward: Apăsați 8 pentru a redirecționa mesajul către un alt utilizator
+vm-tohearenv: apăsați 3 pentru a asculta detaliile mesajului
+vm-tomakecall: apăsați 4 pentru a efectua un apel
+vm-tooshort: mesajul dumneavoastră este prea scurt
+vm-toreply: apăsați 1 pentru a trimite un răspuns
+vm-torerecord: apăsați 3 pentru a vă reînregistra mesajul
+vm-undelete: Apăsați 7 pentru a recupera acest mesaj
+vm-undeleted: Mesaj recuperat.
+vm-unknown-caller: de la un apelant necunoscut
+vm-whichbox: Pentru a lăsa un mesaj, vă rugăm introduceți numărul căsuței poștale.
+vm-youhave: aveți
+with: Cu.
+you-entered: Ați introdus.
+your: Dumneavoastră.
